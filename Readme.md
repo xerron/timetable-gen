@@ -3,6 +3,9 @@
 La asignación de horarios es un problema complejo debido a la cantidad de restricciones que presenta y el criterio con el que se aplican. El conjunto de restricciones que impone a la forma de trabajo en una biblioteca introduce complejidad a la resolución del problema.
 Esta investigación busca principalmente la resolución de un problema práctico de asignación de horarios de una Biblioteca, en particular clasificado  como  un  problema  de Timetabling,  frecuentemente  presentado  en  el  ámbito  académico, basado en programación lógica de restricciones (CPL) usando el lenguaje lógico PROLOG. Además hemos podido establecer unas conclusiones acerca de las posibilidades de PROLOG para proyectos más grandes concernientes a la generación de horarios.
 
+![z2](https://cloud.githubusercontent.com/assets/1724033/20655330/8b7b5526-b4ef-11e6-8fe9-99d48321ed87.jpg)
+![z1](https://cloud.githubusercontent.com/assets/1724033/20655332/8cae4e12-b4ef-11e6-8709-9b326811ed18.jpg)
+
 # Licencia
 
 Copyright © 2016 Xerron
